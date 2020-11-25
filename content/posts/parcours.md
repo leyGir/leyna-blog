@@ -1,5 +1,5 @@
 ---
-title: "Mon approche vers le design UX/UI"
+title: "Mon approche vers le design UI/UX"
 date: 2020-11-12T15:34:37+01:00
 draft: false
 ---
