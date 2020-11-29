@@ -2,6 +2,19 @@
 title: "Qu'est-ce que c'est l'UI/UX design ?"
 date: 2020-11-23T18:08:56+01:00
 draft: false
+categories:
+- Méthodologie
+tags:
+- E-commerce
+- UX/UI
+
+cover:
+    image: "https://careerfoundry.com/en/blog/uploads/difference-between-ux-ui-ux-ui-min.png"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Différence entre UX and UI"
+    caption: "Différence entre UX and UI"
+
 ---
 
 L'UX design (*User Experience Design*) et l'UI design(*Interface Design*)  travaillent ensemble, afin de fournir le meilleur parcours utilisateur possible.

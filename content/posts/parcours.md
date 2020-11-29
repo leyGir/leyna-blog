@@ -2,6 +2,15 @@
 title: "Mon approche vers le design UI/UX"
 date: 2020-11-12T15:34:37+01:00
 draft: false
+categories:
+- Methodologie
+tags:
+- UX/UI
+- Idées
+cover:
+    image: "https://leynagirardi.com/wp-content/uploads/2020/11/acronymapp-1-scaled.jpg"
+    alt: "Mockup de AcronymApp"
+    caption: "Mockup de AcronymApp"
 ---
 
 Je me suis toujours demandée quel métier, j'aimerais travailler dans le futur. J'ai toujours été attirée par les métiers qui utilisent une certaine créativité : Graphiste, créatrice de vêtement, médiamaticienne, illustratrice, conceptrice en jeu vidéo, animatrice 2d et ingénieure des médias...

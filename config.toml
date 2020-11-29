@@ -1,4 +1,25 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Leyna's BLOG"
 theme = "hugo-PaperMod" 
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params.homeInfoParams]
+Title = "Le blog de Leyna Girardi"
+Content = "Vous pouvez découvrir des articles sur l'UI/UX Design."
+
+[[params.socialIcons]]
+name = "website"
+url = "https://leynagirardi.com/"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/leyna-girardi/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/leyGir"
+

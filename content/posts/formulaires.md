@@ -2,6 +2,20 @@
 title: "L'importance des formulaires"
 date: 2020-11-25T21:58:23+01:00
 draft: false
+ShowToc: true
+categories:
+- Ergonomie
+tags:
+- E-commerce
+- UX/UI
+- Formulaire
+- Mobile
+cover:
+    image: "https://newflux.fr/wp-content/uploads/2017/10/form-best-practices.png"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Best practice des formulaires"
+    caption: "Best practice des formulaires"
 ---
 
 ## Résumé de l'article
