@@ -59,7 +59,7 @@ Voici une petite liste de ma veille :
 
 **Pinterest**
 
-- Réaliser des tableaux grâces à des mots-clés.
+- Réaliser des tableaux grâces à des mots-clés
 
 ### Mots-clés utiles
 
