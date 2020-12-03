@@ -2,6 +2,9 @@
 title: "About"
 date: 2020-11-12T15:34:37+01:00
 draft: false
+layout: "about"
+url: "/about/"
+summary: about
 categories:
 - Methodologie
 tags:

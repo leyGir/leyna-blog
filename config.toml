@@ -23,3 +23,18 @@ url = "https://www.linkedin.com/in/leyna-girardi/"
 name = "github"
 url = "https://github.com/leyGir"
 
+[[menu.main]]
+name = "À propos"
+url = "about/"
+weight = 1
+
+[[menu.main]]
+name = "Archive"
+url = "archives"
+weight = 3
+
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 2
