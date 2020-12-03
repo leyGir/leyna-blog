@@ -35,9 +35,14 @@ Apple va peut être utiliser la VR afin de développer un nouveau produit. C'est
 ## Qu’est-ce que j’ai appris 
 
 - L'IA sera partout et il faut rendre l'interface plus personnelle pour l'utilisateur pour générer plus de trafic.
+
 - Mobile-First est indispensable, sinon on pénalise le référencement sur Google. 
+
 - La 3D est de retour, c'est le design du moment.
+
 - La VR gagne en popularité ces derniers temps.
+
+  
 
 ## Pourquoi cette sélection 
 

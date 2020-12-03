@@ -66,6 +66,8 @@ L'**UI design** est la présentation et l'interactivité du produit. C'est l'asp
 
 C'est assez difficile de comprendre ce que c'est l'UX/UI, mais surtout qu'elle est la différence entre ces deux sujets. J'étais dans le même cas, mais depuis que j'ai rédigé le résumé de cet article, j'ai pu enfin comprendre cette différence en détail et serai capable de l'expliquer à potentiel client qui ne connaît pas du tout ce domaine. 
 
+
+
 *Source : https://www.usertesting.com/blog/ui-vs-ux*
 
 *Image : https://wiredelta.com/wp-content/uploads/2019/04/UX-vs-UI.png*

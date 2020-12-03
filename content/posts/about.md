@@ -8,7 +8,7 @@ tags:
 - UX/UI
 - Idées
 cover:
-    image: "https://leynagirardi.com/wp-content/uploads/2020/11/acronymapp-1-scaled.jpg"
+    image: "http://leynagirardi.com/wp-content/uploads/2020/11/acronymapp-1-scaled.jpg"
     alt: "Mockup de AcronymApp"
     caption: "Mockup de AcronymApp"
 ---

@@ -24,6 +24,8 @@ Le formulaire est très important pour les achats en ligne. Il peut avoir un tau
 
 ![Exemple de formulaire](https://i.pinimg.com/originals/5b/10/83/5b10833312d76b6f6ead09f2866970b3.png)
 
+
+
 ## Qu’est-ce que j’ai appris
 
 Il y a plusieurs manière pour optimiser ces formulaires et rendre la partie e-commerce attrayante et peut être un élément décidant pour l'acheteur. 
