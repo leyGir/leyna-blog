@@ -27,7 +27,7 @@ Bien qu'ils travaillent ensemble, leurs fonctions sont différentes.
 
 ### C'est quoi l'UX design ?
 
-L'**UX design** sert à l'expérience utilisateur. Il s'applique sur tout ce qui peut expérimenté tel qu'une application mobile. C'est vraiment l'interaction entre l'utilisateur et le produit ou le service. Il prend en compte ce que veut faire l'utilisateur sur le produit/service. 
+L'**UX design** sert à l'expérience utilisateur. Il s'applique sur tout ce qui peut expérimenter tel qu'une application mobile. C'est vraiment l'interaction entre l'utilisateur et le produit ou le service. Il prend en compte ce que veut faire l'utilisateur sur le produit/service. 
 
 #### Stratégie et contenu :
 
@@ -69,5 +69,3 @@ C'est assez difficile de comprendre ce que c'est l'UX/UI, mais surtout qu'elle e
 
 
 *Source : https://www.usertesting.com/blog/ui-vs-ux*
-
-*Image : https://wiredelta.com/wp-content/uploads/2019/04/UX-vs-UI.png*

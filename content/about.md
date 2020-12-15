@@ -1,22 +1,15 @@
 ---
-title: "About"
+title: "À propos"
 date: 2020-11-12T15:34:37+01:00
 draft: false
 layout: "about"
 url: "/about/"
 summary: about
-categories:
-- Methodologie
-tags:
-- UX/UI
-- Idées
 cover:
-    image: "http://leynagirardi.com/wp-content/uploads/2020/11/acronymapp-1-scaled.jpg"
-    alt: "Mockup de AcronymApp"
-    caption: "Mockup de AcronymApp"
+    image: "https://leynagirardi.com/wp-content/uploads/2020/09/leyna_logo.png"
 ---
 
-Je me suis toujours demandée quel métier, j'aimerais travailler dans le futur. J'ai toujours été attirée par les métiers qui utilisent une certaine créativité : Graphiste, créatrice de vêtement, médiamaticienne, illustratrice, conceptrice en jeu vidéo, animatrice 2d et ingénieure des médias...
+Je me suis toujours demandée quel métier, j'aimerais travailler dans le futur. J'ai toujours été attirée par les métiers qui utilisent une certaine créativité : graphiste, créatrice de vêtement, médiamaticienne, illustratrice, conceptrice en jeu vidéo, animatrice 2D et ingénieure des médias...
 
 ## Mon parcours
 
