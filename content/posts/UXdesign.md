@@ -17,8 +17,6 @@ cover:
 
 ---
 
-## Résumé de l'article
-
 L'UX design (*User Experience Design*) et l'UI design(*Interface Design*)  travaillent ensemble, afin de fournir le meilleur parcours utilisateur possible.
 
 Bien qu'ils travaillent ensemble, leurs fonctions sont différentes.

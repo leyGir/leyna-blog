@@ -2,7 +2,6 @@
 title: "L'importance des formulaires"
 date: 2020-11-25T21:58:23+01:00
 draft: false
-ShowToc: true
 categories:
 - Ergonomie
 tags:
@@ -16,15 +15,11 @@ cover:
     caption: "Best practice des formulaires"
 ---
 
-## Résumé de l'article
-
 Le formulaire est très important pour les achats en ligne. Il peut avoir un taux d’abandon élevé, si la partie de paiement et livraison de l'e-commerce sur mobile n’est pas optimisée. De plus, il y a beaucoup d'utilisateurs qui ne remplissent pas les formulaires sur mobile, car ils sont trop longs.  
 
 ![Exemple de formulaire](https://i.pinimg.com/originals/5b/10/83/5b10833312d76b6f6ead09f2866970b3.png)
 
-
-
-## Qu’est-ce que j’ai appris
+## Ce qui faut retirer de cette pratique
 
 Il y a plusieurs manières pour optimiser ces formulaires et rendre la partie e-commerce attrayante et peut être un élément décidant pour l'acheteur. 
 

@@ -16,8 +16,6 @@ cover:
     caption: "Réalité augmentée sur les mobiles"
 ---
 
-## Résumé de l'article
-
 Le design doit être changé et pensé à l'avance plus souvent, car les technologies évoluent assez rapidement. Il y a plusieurs tendances pour 2021 qui se dégagent comme l'IA, le mobile-first, la 3D et la VR.
 
 L'IA est très présente de nos jours comme sur YouTube et Spotify. Ce n'est pas forcément un Chabot très compliqué, mais simplement des suggestions de musiques ou vidéos personnalisées. Les personnes préfèrent utiliser une plateforme qui permet de personnaliser le contenu. 
@@ -32,7 +30,7 @@ Apple va peut-être utiliser la VR afin de développer un nouveau produit. C'est
 
 ![VR](https://uxmag.com/sites/default//files/Uxmag-articles/2020-Articles/UXtrends/UXtrends6.gif)
 
-## Qu’est-ce que j’ai appris 
+## Ce qui faut retirer de cette pratique
 
 - L'IA sera partout et il faut rendre l'interface plus personnelle pour l'utilisateur pour générer plus de trafic.
 
