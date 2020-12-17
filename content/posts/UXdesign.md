@@ -1,5 +1,5 @@
 ---
-title: "Qu'est-ce que c'est l'UI/UX design ?"
+title: "Qu'est-ce que c'est l'UX/UI design ?"
 date: 2020-11-23T18:08:56+01:00
 draft: false
 categories:
@@ -30,7 +30,7 @@ L'**UX design** sert à l'expérience utilisateur. Il s'applique sur tout ce qui
 #### Stratégie et contenu :
 
 - Analyse concurrentielle 
-- Recherche d'utilisateur
+- Recherche utilisateurs
 - Architecture de l'information
 
 #### Wireframe et prototypage :
@@ -46,23 +46,23 @@ L'**UI design** est la présentation et l'interactivité du produit. C'est l'asp
 
 #### L'aspect et la sensation du produit :
 
-- Analyse client
+- Analyse des clients
 - Recherche de conception
 - Branding et développement graphique
-- Guides utilisateur et scénarios
+- Guides utilisateurs et scénarios
 
 #### Réactivité et interactivité :
 
 - Prototypage UI
 - Interactivité et animation
-- Adaptation à toutes les tailles d'écran de l'appareil
-- Implémentation avec développeur
+- Adaptation pour toutes les tailles d'écran du support
+- Implémentation avec le développeur
 
 
 
 ## Pourquoi cette sélection 
 
-C'est assez difficile de comprendre ce que c'est l'UX/UI, mais surtout qu'elle est la différence entre ces deux sujets. J'étais dans le même cas, mais depuis que j'ai rédigé le résumé de cet article, j'ai pu enfin comprendre cette différence en détail et serai capable de l'expliquer à potentiel client qui ne connaît pas du tout ce domaine. 
+C'est assez difficile de comprendre ce que c'est l'UX/UI, mais surtout quelle est la différence entre ces deux sujets. J'étais dans le même cas, mais depuis que j'ai rédigé le résumé de cet article, j'ai pu enfin comprendre cette différence en détail et serai capable de l'expliquer à potentiel client qui ne connaît pas du tout ce domaine. 
 
 
 

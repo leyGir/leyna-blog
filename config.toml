@@ -8,8 +8,8 @@ theme = "hugo-PaperMod"
   tag = "tags"
 
 [params.homeInfoParams]
-Title = "Le blog de Leyna Girardi"
-Content = "Vous pouvez découvrir des articles sur l'UI/UX Design."
+Title = "BLOG DE LEYNA GIRARDI"
+Content = "25 ans 🌸 Étudiante en ingénierie des médias 🌸 Passionnée d'UX/UI Design."
 
 [[params.socialIcons]]
 name = "website"

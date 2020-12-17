@@ -23,7 +23,7 @@ Le formulaire est très important pour les achats en ligne. Il peut avoir un tau
 
 Il y a plusieurs manières pour optimiser ces formulaires et rendre la partie e-commerce attrayante et peut être un élément décidant pour l'acheteur. 
 
-Su mobile, l’utilisateur sur mobile n’est pas patient et il remplira les informations du formulaire de manière linéaire, c'est pour cela qu'il ne faut pas inclure beaucoup d'informations et structurer le tout. Il ne faut pas non plus poser des questions inutiles et n'afficher que les champs nécessaires.
+Sur mobile, l’utilisateur n’est pas patient et il remplira les informations du formulaire de manière linéaire, c'est pour cela qu'il ne faut pas inclure beaucoup d'informations et structurer le tout. Il ne faut pas non plus poser des questions inutiles et n'afficher que les champs nécessaires.
 
 Il est recommandé d'utiliser des menus pliables, listes déroulantes et mettre en avant le bouton pour envoyer le formulaire.
 
